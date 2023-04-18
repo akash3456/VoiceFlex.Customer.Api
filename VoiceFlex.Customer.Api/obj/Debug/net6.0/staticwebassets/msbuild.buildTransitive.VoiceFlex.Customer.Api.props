@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VoiceFlex.Customer.Api.props" />
+</Project>

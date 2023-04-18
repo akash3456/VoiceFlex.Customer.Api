@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceFlex.Customer.Api", "VoiceFlex.Customer.Api\VoiceFlex.Customer.Api.csproj", "{76B1FB20-7B27-4788-9C66-E844A9A05E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceFlex.Customer.Api.Tests", "VoiceFlex.Customer.Api.Tests\VoiceFlex.Customer.Api.Tests.csproj", "{872A0CE7-971E-4D04-B918-188AA6CD0F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B1FB20-7B27-4788-9C66-E844A9A05E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B1FB20-7B27-4788-9C66-E844A9A05E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B1FB20-7B27-4788-9C66-E844A9A05E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B1FB20-7B27-4788-9C66-E844A9A05E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872A0CE7-971E-4D04-B918-188AA6CD0F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872A0CE7-971E-4D04-B918-188AA6CD0F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872A0CE7-971E-4D04-B918-188AA6CD0F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872A0CE7-971E-4D04-B918-188AA6CD0F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D324CCC1-6C89-4E7F-A5D4-A37BD0E0619B}
+	EndGlobalSection
+EndGlobal

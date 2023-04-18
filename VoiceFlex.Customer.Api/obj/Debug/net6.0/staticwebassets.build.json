@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HvrKWt9xZGYfPuYqlbyf7bvAhwtqcdHY2YT6AA2sAiA=",
+  "Source": "VoiceFlex.Customer.Api",
+  "BasePath": "_content/VoiceFlex.Customer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
